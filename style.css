@@ -1,0 +1,20 @@
+/*
+Theme Name: My Personal Website
+Theme URI: http://example.com/my-personal-website/
+Author: Your Kinde Terefe
+Author URI: http://example.com
+Description: A personal website theme based on HTML/CSS/JS template.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: personal, portfolio, resume, contact
+Text Domain: my-personal-website
+*/
+body { font-family: Arial, sans-serif; }
+.container { width: 80%; margin: auto; }
+header, footer { text-align: center; padding: 1em; }
+nav { text-align: center; padding: 1em; }
+nav ul { list-style: none; padding: 0; }
+nav ul li { display: inline; margin-right: 20px; }
+section { margin-bottom: 20px; }
+.bio, .resume, .contact { padding: 1em; border: 1px solid #ccc; }
